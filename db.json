@@ -29,27 +29,27 @@
 	"dashboard": {
 		"success": true,
 		"data": [{
-				"name": "project1",
+				"name": "Admins",
 				"count": 19
 			},
 			{
-				"name": "project2",
+				"name": "Team Managers",
 				"count": 819
 			},
 			{
-				"name": "project3",
+				"name": "Sales",
 				"count": 495
 			},
 			{
-				"name": "project4",
+				"name": "Projects",
 				"count": 654
 			},
 			{
-				"name": "project5",
+				"name": "Marketers,
 				"count": 4654
 			},
 			{
-				"name": "project6",
+				"name": "Directors",
 				"count": 2135
 			}
 		]
