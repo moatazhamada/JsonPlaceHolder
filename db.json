@@ -29,15 +29,23 @@
 	"dashboard": {
 		"success": true,
 		"data": [{
+				"name": "Owners",
+				"count": 1
+			},
+			{
 				"name": "Admins",
-				"count": 19
+				"count": 5
 			},
 			{
-				"name": "Team Managers",
-				"count": 819
+				"name": "Team Managers of Sales",
+				"count": 20
 			},
 			{
-				"name": "Sales",
+				"name": "Team Managers of Marketing",
+				"count": 20
+			},
+			{
+				"name": "Channels",
 				"count": 495
 			},
 			{
@@ -49,7 +57,7 @@
 				"count": 4654
 			},
 			{
-				"name": "Directors",
+				"name": "Sales",
 				"count": 213
 			}
 		]
